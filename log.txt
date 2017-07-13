@@ -1,0 +1,296 @@
+
+do-what-it-says
+
+do-what-it-says
+
+Artist(s): Backstreet Boys
+
+Title: I Want It That Way
+
+Album: The Hits--Chapter One
+
+Preview: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+
+spotify-this-song
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 23:50:10 
+
+@CodeConejo: I finished!
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 22:28:12 
+
+@CodeConejo: Do what it says won't work!!!
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 16:26:51 
+
+@CodeConejo: Conejo is Spanish for rabbit
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 16:26:09 
+
+@CodeConejo: I am making a LIRI Bot right now!
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Mon Jul 10 02:39:27 
+
+@CodeConejo: Hello Liri!
+
+									
+
+do-what-it-says
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 23:50:10 
+
+@CodeConejo: I finished!
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 22:28:12 
+
+@CodeConejo: Do what it says won't work!!!
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 16:26:51 
+
+@CodeConejo: Conejo is Spanish for rabbit
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 16:26:09 
+
+@CodeConejo: I am making a LIRI Bot right now!
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Mon Jul 10 02:39:27 
+
+@CodeConejo: Hello Liri!
+
+									
+
+spotify-this-song
+
+Artist(s): Two Door Cinema Club
+
+Title: What You Know
+
+Preview: https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl
+
+Album: Tourist History
+
+spotify-this-song
+
+Artist(s): Green Day
+
+Title: Basket Case
+
+Preview: https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY
+
+Album: Dookie
+
+spotify-this-song
+
+Artist(s): Green Day
+
+Title: Basket Case
+
+Preview: https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY
+
+Album: Dookie
+
+do-what-it-says
+
+movie-this
+
+Title: Frozen
+
+Release Year: 2013
+
+IMDB Rating: 7.5/10
+
+Rotten Tomatoes Rating: 74/100
+
+Country: USA
+
+Language: English, Icelandic
+
+Plot: When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+movie-this
+
+Title: Frozen
+
+Release Year: 2013
+
+IMDB Rating: 7.5/10
+
+Rotten Tomatoes Rating: 74/100
+
+Country: USA
+
+Language: English, Icelandic
+
+Plot: When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+do-what-it-says
+
+do-what-it-says
+
+movie-this
+
+IMDB Rating: 8.8/10
+
+Rotten Tomatoes Rating: 74/100
+
+Country: USA, UK
+
+Language: English, Japanese, French
+
+Plot: A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+
+Title: Inception
+
+Release Year: 2010
+
+do-what-it-says
+
+spotify-this-song
+
+Preview: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+
+Artist(s): Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Title: I Want It That Way
+
+movie-this
+
+Title: Inception
+
+Release Year: 2010
+
+IMDB Rating: 8.8/10
+
+Rotten Tomatoes Rating: 74/100
+
+Country: USA, UK
+
+Language: English, Japanese, French
+
+Plot: A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+
+Artist(s): Luis Fonsi
+
+Title: Despacito - Remix
+
+Preview: https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG
+
+Album: Despacito Feat. Justin Bieber (Remix)
+
+spotify-this-song
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 23:50:10 
+
+@CodeConejo: I finished!
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 22:28:12 
+
+@CodeConejo: Do what it says won't work!!!
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 16:26:51 
+
+@CodeConejo: Conejo is Spanish for rabbit
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Wed Jul 12 16:26:09 
+
+@CodeConejo: I am making a LIRI Bot right now!
+
+									
+
+my-tweets
+
+-----------------------------------
+
+Mon Jul 10 02:39:27 
+
+@CodeConejo: Hello Liri!
+
+									

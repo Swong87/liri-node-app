@@ -86,7 +86,6 @@ function doRandom(){
 		if (error) {
 			return logData(error);
 		}
-
 		var dataArr = data.split(",");
 		var runArg = dataArr[0];
 		var arg = dataArr[1];
@@ -94,22 +93,14 @@ function doRandom(){
 		switch(runArg) {
 			//OMDB
 			case "movie-this":
-				inquirer.prompt([
-					{
-				      type: "input",
-				      message: "What movie would you like to look up?",
-				      name: "movie"
-				    }
-				]).then(function(inquirerResponse) {
-					movieThis(inquirerResponse.movie);
-				});
+					movieThis(arg);
 				break;
 			//SPOTIFY
 			case "spotify-this-song":
 					spotifyThis(arg);
 				break;
 			//TWITTER
-			case "Twitter":
+			case "my-tweets":
 				twitterMe();
 				break;
 		}
