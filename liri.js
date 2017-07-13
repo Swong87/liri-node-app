@@ -88,10 +88,31 @@ function doRandom(){
 		}
 
 		var dataArr = data.split(",");
-
+		var runArg = dataArr[0];
 		var arg = dataArr[1];
 		logData("do-what-it-says");
-		spotifyThis(arg);
+		switch(runArg) {
+			//OMDB
+			case "movie-this":
+				inquirer.prompt([
+					{
+				      type: "input",
+				      message: "What movie would you like to look up?",
+				      name: "movie"
+				    }
+				]).then(function(inquirerResponse) {
+					movieThis(inquirerResponse.movie);
+				});
+				break;
+			//SPOTIFY
+			case "spotify-this-song":
+					spotifyThis(arg);
+				break;
+			//TWITTER
+			case "Twitter":
+				twitterMe();
+				break;
+		}
 	});
 }
 function logData(logInfo){
